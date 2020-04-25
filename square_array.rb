@@ -13,3 +13,10 @@ def square_array(array)
   array.each { |i| new_array.push(i ** 2) }
   new_array
 end
+
+# def square_array (numbers)
+# numbers.map do |number|
+#   number * number
+# end
+
+# end
